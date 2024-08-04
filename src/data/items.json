@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Book",
+        "price":120,
+        "image":"src/assets/book.jpg"
+    },
+    {
+        "id":2,
+        "name":"PC",
+        "price":11220,
+        "image":"src/assets/pc.jpg"
+    },
+    {
+        "id":3,
+        "name":"Apple",
+        "price":280,
+        "image":"src/assets/apple.jpg"
+    },
+    {
+        "id":4,
+        "name":"tshirt",
+        "price":800,
+        "image":"src/assets/tshirt.jpg"
+    }
+]
